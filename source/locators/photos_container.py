@@ -1,0 +1,5 @@
+class PhotoLocators:
+    add_photo_button = 'com.kajda.fuelio:id/selectPicture'
+    add_from_gallery = '/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/androidx.appcompat.widget.LinearLayoutCompat/android.widget.FrameLayout/android.widget.ListView/android.widget.TextView[2]'
+    gallery_option = '/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[2]/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.view.ViewGroup/android.widget.GridView/android.widget.LinearLayout[1]'
+    add_photo = '//android.widget.FrameLayout[@content-desc="Zdjęcie, 7 Czerwiec 2022 21:58:27"]/android.widget.ImageView'
